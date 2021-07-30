@@ -1,0 +1,6 @@
+num = int(input())
+wk = int(input())
+amount = float(input())
+SALARY = (amount*wk)
+print('NUMBER =', num)
+print('SALARY = U$ %.2f'%SALARY)
